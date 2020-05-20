@@ -10,7 +10,7 @@ struct estrutura_jogadores
 
 {
 
-int num; // numero da camisa
+int num; // numero da camisa!
 
 float peso; // peso do jogador
 
